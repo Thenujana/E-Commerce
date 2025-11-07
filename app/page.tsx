@@ -60,7 +60,6 @@ export default async function Home() {
           <h3 className="text-3xl font-bold text-blue-700 mb-8">
             Featured Products
           </h3>
-          <Carousel />
         </div>
       </section>
     </div>
