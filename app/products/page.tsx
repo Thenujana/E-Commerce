@@ -9,7 +9,7 @@ export default async function ProductsPage() {
    
     <div className="min-h-screen bg-gray-50 py-12 px-6">
         <div>
-            <input type="text" placeholder="Search products..." className="border border-gray-300 rounded-md p-2" />
+            <input type="text" placeholder="Search products..." className="border border-gray-300 rounded-md p-2 ml-285" />
         </div>
       <h1 className="text-3xl font-bold text-gray-900 text-center mb-10">
         Our Products

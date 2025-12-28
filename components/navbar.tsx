@@ -7,22 +7,22 @@ return (
         
         <Link
           href="/"
-          className="text-3xl font-extrabold text-blue-700 tracking-tight hover:text-blue-800 transition-colors duration-300"
+          className="text-3xl font-extrabold text-blue-600 tracking-tight hover:text-black-500 transition-colors duration-300"
         >
-          E-Com
+          E-Com Site
         </Link>
          <div className="space-x-6">
-<Link href="/" className="relative group hover:text-blue-700 transition-colors">
+<Link href="/" className="relative group hover:text-blue-400 transition-colors">
             Home
-            <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-blue-600 transition-all duration-300 group-hover:w-full"></span>
+            <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-blue-400 transition-all duration-300 group-hover:w-full"></span>
           </Link>
-          <Link href="/products" className="relative group hover:text-blue-700 transition-colors">
+          <Link href="/products" className="relative group hover:text-blue-400 transition-colors">
             Products
-            <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-blue-600 transition-all duration-300 group-hover:w-full"></span>
+            <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-blue-400 transition-all duration-300 group-hover:w-full"></span>
           </Link>
-          <Link href="/checkout" className="relative group hover:text-blue-700 transition-colors">
+          <Link href="/checkout" className="relative group hover:text-blue-400 transition-colors">
             Checkout
-            <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-blue-600 transition-all duration-300 group-hover:w-full"></span>
+            <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-blue-400 transition-all duration-300 group-hover:w-full"></span>
           </Link>
 
          </div>
